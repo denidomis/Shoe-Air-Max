@@ -77,6 +77,7 @@ h1 {
 }
 
 #logobg {
+  margin-top: 50px;
   width: 163px;
   height: 136px;
   background: rgba(86, 81, 79, 0.29);
